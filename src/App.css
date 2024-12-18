@@ -32,7 +32,8 @@ h1 {
 .square {
   width: 80px;
   height: 80px;
-  background: #fff;
+  background: #000;
+  color: #fff;
   border: 2px solid #333;
   border-radius: 8px;
   font-size: 2rem;
@@ -42,7 +43,7 @@ h1 {
 }
 
 .square:hover {
-  background-color: #f0f0f0;
+  background-color: #333;
 }
 
 .reset-button {
